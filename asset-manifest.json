@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-financial-planner/static/css/main.5de54711.chunk.css",
+    "main.js": "/react-financial-planner/static/js/main.f727bdb0.chunk.js",
+    "main.js.map": "/react-financial-planner/static/js/main.f727bdb0.chunk.js.map",
+    "runtime~main.js": "/react-financial-planner/static/js/runtime~main.a774227a.js",
+    "runtime~main.js.map": "/react-financial-planner/static/js/runtime~main.a774227a.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/react-financial-planner/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.5401a779.chunk.js": "/react-financial-planner/static/js/2.5401a779.chunk.js",
+    "static/js/2.5401a779.chunk.js.map": "/react-financial-planner/static/js/2.5401a779.chunk.js.map",
+    "index.html": "/react-financial-planner/index.html",
+    "precache-manifest.0a7ca9c0a9badea5ecdc4aac052c44dd.js": "/react-financial-planner/precache-manifest.0a7ca9c0a9badea5ecdc4aac052c44dd.js",
+    "service-worker.js": "/react-financial-planner/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/react-financial-planner/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.5de54711.chunk.css.map": "/react-financial-planner/static/css/main.5de54711.chunk.css.map",
+    "static/media/costs.svg": "/react-financial-planner/static/media/costs.f862badb.svg",
+    "static/media/logo.svg": "/react-financial-planner/static/media/logo.0027f4d6.svg",
+    "static/media/pig.svg": "/react-financial-planner/static/media/pig.532bb595.svg",
+    "static/media/revenues.svg": "/react-financial-planner/static/media/revenues.8da0e5af.svg"
+  }
+}
