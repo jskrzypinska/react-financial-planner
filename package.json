@@ -1,6 +1,7 @@
 {
   "name": "jfdd12-ninjacode-app",
   "version": "0.1.0",
+  "homepage": "https://jskrzypinska.github.io/react-financial-planner",
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^3.17.1",
@@ -22,8 +23,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
